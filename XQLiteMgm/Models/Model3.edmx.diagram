@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="166d7e5af65c4476831f05c22c83c0e7" Name="Diagram1">
+        <EntityTypeShape EntityType="DAQUserBModel2.C__MigrationHistory" Width="1.5" PointX="13.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AppidMapping" Width="1.5" PointX="5.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AspNetRoles" Width="1.5" PointX="10.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AspNetUserClaims" Width="1.5" PointX="15.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AspNetUserLogins" Width="1.5" PointX="15.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AspNetUsers" Width="1.5" PointX="13" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AttributeList" Width="1.5" PointX="13.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.AttributeValue" Width="1.5" PointX="16" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.Bill" Width="1.5" PointX="8" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BrokerAuthRule" Width="1.5" PointX="10.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BrokerConfig" Width="1.5" PointX="15.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BrokerInfo" Width="1.5" PointX="12.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BrokerPwd" Width="1.5" PointX="14.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ClassInfo" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.CountryCode" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.CreditCard" Width="1.5" PointX="8" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.CustomerDetail" Width="1.5" PointX="11" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.CustomerMaster" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.CustomerService" Width="1.5" PointX="8" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DASManager" Width="1.5" PointX="17.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DASSetting" Width="1.5" PointX="17.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareLoginUser" Width="1.5" PointX="18.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareMarket" Width="1.5" PointX="10.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareMarketLog" Width="1.5" PointX="12.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareSales" Width="1.5" PointX="18.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareUserData" Width="1.5" PointX="18.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.DeclareUserDataLog" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.dtproperties" Width="1.5" PointX="0.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.EmailCheck" Width="1.5" PointX="2.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ExchExtraAttr" Width="1.5" PointX="4.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ExchList" Width="1.5" PointX="19.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ExchPullRule" Width="1.5" PointX="14.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.FAQ" Width="1.5" PointX="20.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.FAQTopN" Width="1.5" PointX="20.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.feature" Width="1.5" PointX="20.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.FreeTrialIBAccountMapping" Width="1.5" PointX="20.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.FreeTrialTradeRecord" Width="1.5" PointX="20.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.FreeTrialUserList" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.GroupAccount" Width="1.5" PointX="21.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.KycWhiteList" Width="1.5" PointX="2.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.LoginReport" Width="1.5" PointX="22.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.MBUserServerSetting" Width="1.5" PointX="4.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.MenuModule" Width="1.5" PointX="22.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.MenuModuleFunc" Width="1.5" PointX="10.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.MenuPermissions" Width="1.5" PointX="12.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.Meta" Width="1.5" PointX="22.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.MobileCheck" Width="1.5" PointX="14.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.NewsList" Width="1.5" PointX="22.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.NewUserReport" Width="1.5" PointX="22.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.Operator" Width="1.5" PointX="5.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.PayRecord" Width="1.5" PointX="8" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ProductSet" Width="1.5" PointX="22.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.Sales" Width="1.5" PointX="8.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.SecurityRole" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.SecurityRoleMember" Width="1.5" PointX="6.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ServerConfig" Width="1.5" PointX="23.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.StatisticsData" Width="1.5" PointX="16.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.sysdiagrams" Width="1.5" PointX="18.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.SysNotice" Width="1.5" PointX="24.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UsageReport" Width="1.5" PointX="24.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UsageReportXQ" Width="1.5" PointX="24.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserActionMsg" Width="1.5" PointX="24.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserAppAuth" Width="1.5" PointX="3" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserAttribute" Width="1.5" PointX="16" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserAttributeConfig" Width="1.5" PointX="24.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserClass" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserClassKey" Width="1.5" PointX="0.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserDealer" Width="1.5" PointX="2.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserDealerBroker" Width="1.5" PointX="8.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserDealerUser" Width="1.5" PointX="25.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserECOrderRecord" Width="1.5" PointX="10.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserExchAttribute" Width="1.5" PointX="20.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserExchAuth" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserExchFreeTrial" Width="1.5" PointX="22.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserExtraAuth" Width="1.5" PointX="24.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserFbMapping" Width="1.5" PointX="26.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserICAuth" Width="1.5" PointX="4.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserInfo" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserInvoiceRecord" Width="1.5" PointX="12.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserInvoiceSetting" Width="1.5" PointX="26.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserIPAuth" Width="1.5" PointX="26.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserLog" Width="1.5" PointX="3" PointY="11.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserMacAuth" Width="1.5" PointX="3" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserNewsAuth" Width="1.5" PointX="14.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserNotice" Width="1.5" PointX="16.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserOrderNotice" Width="1.5" PointX="26.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserOrderRecord" Width="1.5" PointX="26.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPayRecord" Width="1.5" PointX="26.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointBrokerMapping" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointDealer" Width="1.5" PointX="27.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointInCome" Width="1.5" PointX="0.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointInComeEstimate" Width="1.5" PointX="28.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointPay" Width="1.5" PointX="6.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPointUser" Width="1.5" PointX="28.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserPWD" Width="1.5" PointX="0.75" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserRole" Width="1.5" PointX="28.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserSession" Width="1.5" PointX="3" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserSyncAccount" Width="1.5" PointX="18.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserVerifyBroker" Width="1.5" PointX="28.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.XTbidMapping" Width="1.5" PointX="20.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BBSAuth" Width="1.5" PointX="28.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BBSData" Width="1.5" PointX="22.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BBSGroup" Width="1.5" PointX="28.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.BBSManagement" Width="1.5" PointX="28.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.ECCost" Width="1.5" PointX="2.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.TmpUsage" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.TmpUserNotice" Width="1.5" PointX="29.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.UserBaseAttribute" Width="1.5" PointX="8.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DAQUserBModel2.VerifyBrokerConfig" Width="1.5" PointX="30.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="DAQUserBModel2.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK__Attribute__attri__5B988E2F" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK__UserAttri__attri__58BC2184" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_Bill_CustomerMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_CreditCard_CustomerMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_CustomerDetail_CustomerMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_CustomerDetail_Sales" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_CustomerService_CustomerMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_CustomerService_Operator" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_PayRecord_Operator" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_Sales_Operator" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserAppAuth_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserExchAuth_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserInfo_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserLog_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserPWD_UserMacAuth" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.FK_UserSession_User" ManuallyRouted="false" />
+        <AssociationConnector Association="DAQUserBModel2.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

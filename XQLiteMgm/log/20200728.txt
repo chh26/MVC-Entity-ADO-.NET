@@ -1,0 +1,88 @@
+--Tim： 15:43:32--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組服務發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateRecord(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 254
+
+--Tim： 16:04:52--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組服務發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateRecord(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 254
+
+--Tim： 16:48:33--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組服務發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateRecord(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 254
+
+--Tim： 17:27:24--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+新建客戶帳號發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.CustomerMasterRepository.CustomerMasterInsert(CustomerMasterViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\CustomerMasterRepository.cs: 行 51
+   於 XQLiteMgm.Models.Repository.CreateAccountRepository.CreateAccount(CreateAccountViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateAccountRepository.cs: 行 91
+
+--Tim： 17:30:07--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組服務發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateRecord(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 257
+
+--Tim： 17:30:36--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組服務發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateRecord(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 257
+
+--Tim： 18:08:23--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組權限發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateOrder(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 227
+
+--Tim： 18:08:29--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+ 新增模組權限發生錯誤。 
+ErrorMsg：另一個 SqlParameterCollection 已經包含 SqlParameter。
+ErrorStackTrace：   於 System.Data.SqlClient.SqlParameterCollection.Validate(Int32 index, Object value)
+   於 System.Data.SqlClient.SqlParameterCollection.Add(Object value)
+   於 XQLiteMgm.Models.Repository.Tables.UserOrderRecordRepository.UserOrderRecord_INS(UserOrderRecordViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\Tables\UserOrderRecordRepository.cs: 行 259
+   於 XQLiteMgm.Models.Repository.CreateServiceRepository.CreateOrder(OrderViewModel o1) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Models\Repository\CreateServiceRepository.cs: 行 227
+

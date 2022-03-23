@@ -1,0 +1,34 @@
+{
+  "name": "XQLite_Mgm",
+  "version": "1.0.0",
+  "description": "XQLiteMgm + React",
+  "main": "mgmpage",
+  "scripts": {
+    "build": "webpack -p",
+    "mgm": "webpack --progress --colors --watch"
+  },
+  "keywords": [
+    "XQLiteMgm"
+  ],
+  "author": "",
+  "dependencies": {
+    "antd": "^3.4.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.2",
+    "babel-loader": "^6.2.2",
+    "babel-plugin-import": "^1.2.1",
+    "babel-polyfill": "^6.16.0",
+    "babel-preset-env": "^1.2.1",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "css-loader": "^0.28.1",
+    "file-loader": "^1.1.11",
+    "json-loader": "^0.5.7",
+    "style-loader": "^0.17.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^3.10.0"
+  }
+}

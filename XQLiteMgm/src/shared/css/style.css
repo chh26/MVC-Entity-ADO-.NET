@@ -1,0 +1,80 @@
+body>form { padding: 10px; }
+ul.jbar li a { height: auto; }
+#APP>div { margin-top: 30px; }
+#APP>div button.ant-btn { margin-right: 6px; }
+#APP>div div.search-wrapper
+{
+  display: inline-block;
+}
+#APP>div .search-wrapper span.ant-input-suffix { right: -5px; }
+#APP>div div.ant-table-wrapper { margin-top: 6px; }
+form div.ant-select { width: auto; }
+span.sublit { color: #d7df01; }
+.bruise { color: #ff54ff; }
+.caution { color: red; }
+.disgust { color: green; }
+.secure { color: blue; }
+
+.line {
+    height: 1px;
+    background-color: peru;
+    margin-left: 0; 
+    margin-bottom: 10px;
+  }
+
+  .UserInfoDetailTitle{
+    padding-left: 0; 
+  }
+
+  .UserInfoDetailTitle >span{
+    color: peru;
+    padding-left: 10px;
+    height: 10px;
+    line-height: 1.46;
+    text-align: center;
+    font-Weight: bold;
+    font-Size: large;
+  }
+
+  .UserInfoDetailItem{
+    margin-left: 0;
+  }
+  .UserInfoDetailItem  .Title{
+    display: inline-block;
+    width: 150px;
+  }
+
+  .UserInfoDetailItem  .Title > span {
+    padding-left: 10px;
+    width:80px;
+    font-size: larger;
+    font-weight: 600;
+    line-height: 2;
+    /* text-align: right;
+    text-align: justify;
+    text-justify:inter-ideograph; */
+  }
+
+
+  .UserInfoDetailItem .Content{
+    display: inline-block;
+  }
+
+  .UserInfoDetailItem .Content > span {
+    /* font-size: larger; */
+    /* font-weight: 300; */
+    padding-right:0px;
+    line-height: 2;
+    /* text-align: right;
+    text-align: justify;
+    text-justify:inter-ideograph; */
+  }
+
+  .UserInfoDetailItem .Content > div  table tbody tr{
+    word-break: break-all;
+    
+  }
+
+  .disgust { color: green; }
+  .secure { color: blue; }
+  .caution { color: red; }

@@ -1,0 +1,8 @@
+--Tim： 17:23:18--
+Client IP：192.168.80.38
+Result：
+發生錯誤:
+新建產品服務發生錯誤。 
+ErrorMsg：並未將物件參考設定為物件的執行個體。
+ErrorStackTrace：   於 XQLiteMgm.Controllers.WebAPI.CreateAccountAndProductsController.CreateService(CreateAccountViewModel model) 於 C:\Users\shinnchien\Desktop\工作項目\後台\管理介面\XQLiteMgm\XQLiteMgm\Controllers\WebAPI\CreateAccountAndProductsController.cs: 行 238
+

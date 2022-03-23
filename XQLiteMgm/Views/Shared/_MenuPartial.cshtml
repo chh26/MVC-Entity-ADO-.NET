@@ -1,0 +1,36 @@
+﻿@using XQLiteMgm.Helper
+@{
+    ViewBag.Title = "_MenuPartial";
+}
+
+@if (UserHelper.IsLogin())
+{
+    <li>
+        <div class="mynav_navbar">
+            <div class="mynav_dropdown">
+                <button class="mynav_dropbtn">
+                    XQ用戶管理
+                </button>
+                <div class="mynav_dropdown-content" style="min-width: 200px;">
+                    @Html.ActionLink("基本資料查詢/維護", "UserInfoMaintenance", "UserManagement")
+                    @Html.ActionLink("訂單查詢/維護", "UserOrderMaintenance", "UserManagement")
+                    @Html.ActionLink("使用者事件查詢", "UserActionQuery", "UserManagement")
+                    @Html.ActionLink("使用者登入紀錄查詢", "UserLoginQuery", "UserManagement")
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="mynav_navbar">
+            <div class="mynav_dropdown">
+                <button class="mynav_dropbtn">
+                    系統管理
+                </button>
+                <div class="mynav_dropdown-content" style="min-width: 170px;">
+                    @Html.ActionLink("系統帳號維護", "SysAccountMaintenance", "SysManagement")
+                </div>
+            </div>
+        </div>
+    </li>
+}
+

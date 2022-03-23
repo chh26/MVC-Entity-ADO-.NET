@@ -1,0 +1,98 @@
+{
+    "BUY_": [
+        {"key":"BUY_SENSOR","text":"購買-策略模組"},
+        {"key":"BUY_STRATEGY","text":"購買-選股模組"},
+        {"key":"BUY_WS","text":"購買-權證模組"},
+        {"key":"BUY_BS","text":"購買-籌碼模組"},
+        {"key":"BUY_CN","text":"購買-陸股即時模組"},
+        {"key":"BUY_HK","text":"購買-港股即時模組"},
+        {"key":"BUY_INDU","text":"購買-產業模組"},
+        {"key":"BUY_TW","text":"購買-台股即時模組"},
+        {"key":"BUY_TW300","text":"購買-新台股即時模組（300）"},
+        {"key":"BUY_US","text":"購買-美股即時模組"}
+    ],
+    "BUYFAIL_": [
+        {"key":"BUYFAIL_SENSOR","text":"購買失敗-策略模組"},
+        {"key":"BUYFAIL_STRATEGY","text":"購買失敗-選股模組"},
+        {"key":"BUYFAIL_WS","text":"購買失敗-權證模組"},
+        {"key":"BUYFAIL_BS","text":"購買失敗-籌碼模組"},
+        {"key":"BUYFAIL_CN","text":"購買失敗-陸股即時模組"},
+        {"key":"BUYFAIL_HK","text":"購買失敗-港股即時模組"},
+        {"key":"BUYFAIL_INDU","text":"購買失敗-產業模組"},
+        {"key":"BUYFAIL_TW","text":"購買失敗-台股即時模組"},
+        {"key":"BUYFAIL_TW300","text":"購買失敗-新台股即時模組（300）"},
+        {"key":"BUYFAIL_US","text":"購買失敗-美股即時模組"}
+    ],
+    "RESUB_": [
+        {"key":"RESUB_SENSOR","text":"重新購買-策略模組"},
+        {"key":"RESUB_STRATEGY","text":"重新購買-選股模組"},
+        {"key":"RESUB_WS","text":"重新購買-權證模組"},
+        {"key":"RESUB_BS","text":"重新購買-籌碼模組"},
+        {"key":"RESUB_CN","text":"重新購買-陸股即時模組"},
+        {"key":"RESUB_HK","text":"重新購買-港股即時模組"},
+        {"key":"RESUB_INDU","text":"重新購買-產業模組"},
+        {"key":"RESUB_TW","text":"重新購買-台股即時模組"},
+        {"key":"RESUB_TW300","text":"重新購買-新台股即時模組（300）"},
+        {"key":"RESUB_US","text":"重新購買-美股即時模組"}
+    ],
+    "REBUYSUCCESS_": [
+        {"key":"REBUYSUCCESS_SENSOR","text":"續訂成功-策略模組"},
+        {"key":"REBUYSUCCESS_STRATEGY","text":"續訂成功-選股模組"},
+        {"key":"REBUYSUCCESS_WS","text":"續訂成功-權證模組"},
+        {"key":"REBUYSUCCESS_BS","text":"續訂成功-籌碼模組"},
+        {"key":"REBUYSUCCESS_CN","text":"續訂成功-陸股即時模組"},
+        {"key":"REBUYSUCCESS_HK","text":"續訂成功-港股即時模組"},
+        {"key":"REBUYSUCCESS_INDU","text":"續訂成功-產業模組"},
+        {"key":"REBUYSUCCESS_TW","text":"續訂成功-台股即時模組"},
+        {"key":"REBUYSUCCESS_TW300","text":"續訂成功-新台股即時模組（300）"},
+        {"key":"REBUYSUCCESS_US","text":"續訂成功-美股即時模組"}
+    ],
+    "REBUYFAIL_": [
+        {"key":"REBUYFAIL_SENSOR","text":"續訂失敗-策略模組"},
+        {"key":"REBUYFAIL_STRATEGY","text":"續訂失敗-選股模組"},
+        {"key":"REBUYFAIL_WS","text":"續訂失敗-權證模組"},
+        {"key":"REBUYFAIL_BS","text":"續訂失敗-籌碼模組"},
+        {"key":"REBUYFAIL_CN","text":"續訂失敗-陸股即時模組"},
+        {"key":"REBUYFAIL_HK","text":"續訂失敗-港股即時模組"},
+        {"key":"REBUYFAIL_INDU","text":"續訂失敗-產業模組"},
+        {"key":"REBUYFAIL_TW","text":"續訂失敗-台股即時模組"},
+        {"key":"REBUYFAIL_TW300","text":"續訂失敗-新台股即時模組（300）"},
+        {"key":"REBUYFAIL_US","text":"續訂失敗-美股即時模組"}
+    ],
+    "CANCELSUB_": [
+        {"key":"CANCELSUB_SENSOR","text":"取消訂閱-策略模組"},
+        {"key":"CANCELSUB_STRATEGY","text":"取消訂閱-選股模組"},
+        {"key":"CANCELSUB_WS","text":"取消訂閱-權證模組"},
+        {"key":"CANCELSUB_BS","text":"取消訂閱-籌碼模組"},
+        {"key":"CANCELSUB_CN","text":"取消訂閱-陸股即時模組"},
+        {"key":"CANCELSUB_HK","text":"取消訂閱-港股即時模組"},
+        {"key":"CANCELSUB_INDU","text":"取消訂閱-產業模組"},
+        {"key":"CANCELSUB_TW","text":"取消訂閱-台股即時模組"},
+        {"key":"CANCELSUB_TW300","text":"取消訂閱-新台股即時模組（300）"},
+        {"key":"CANCELSUB_US","text":"取消訂閱-美股即時模組"}
+    ],
+    "PAYERROR_": [
+        {"key":"PAYERROR_SENSOR","text":"付款失敗-策略模組"},
+        {"key":"PAYERROR_STRATEGY","text":"付款失敗-選股模組"},
+        {"key":"PAYERROR_WS","text":"付款失敗-權證模組"},
+        {"key":"PAYERROR_BS","text":"付款失敗-籌碼模組"},
+        {"key":"PAYERROR_CN","text":"付款失敗-陸股即時模組"},
+        {"key":"PAYERROR_HK","text":"付款失敗-港股即時模組"},
+        {"key":"PAYERROR_INDU","text":"付款失敗-產業模組"},
+        {"key":"PAYERROR_TW","text":"付款失敗-台股即時模組"},
+        {"key":"PAYERROR_TW300","text":"付款失敗-新台股即時模組（300）"},
+        {"key":"PAYERROR_US","text":"付款失敗-美股即時模組"}
+    ],
+    "SYS_": [
+        {"key":"SYS_SENSOR","text":"後台模組開通-策略模組"},
+        {"key":"SYS_STRATEGY","text":"後台模組開通-選股模組"},
+        {"key":"SYS_WS","text":"後台模組開通-權證模組"},
+        {"key":"SYS_BS","text":"後台模組開通-籌碼模組"},
+        {"key":"SYS_CN","text":"後台模組開通-陸股即時模組"},
+        {"key":"SYS_HK","text":"後台模組開通-港股即時模組"},
+        {"key":"SYS_INDU","text":"後台模組開通-產業模組"},
+        {"key":"SYS_TW","text":"後台模組開通-台股即時模組"},
+        {"key":"SYS_TW300","text":"後台模組開通-新台股即時模組（300）"},
+        {"key":"SYS_US","text":"後台模組開通-美股即時模組"}
+    ]
+}
