@@ -1,6 +1,3 @@
-# MVC-Entity-ADO-.NET
-後台重構(MVC Entity 改 ADO .NET)
-
 【MVC架構 - Entity 改用 ADO .NET 取得DB資料】
 ==================================
 * 重構本機不允許使用 Entity framework開發，故改用ADO .NET取代，並延用MVC架構。
